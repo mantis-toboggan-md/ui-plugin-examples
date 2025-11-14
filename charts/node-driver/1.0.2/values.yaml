@@ -3,6 +3,10 @@ fullnameOverride: ""
 plugin:
   enabled: true
   versionOverride: ""
+  endpoint: >-
+    https://raw.githubusercontent.com/mantis-toboggan-md/ui-plugin-examples/gh-pages/extensions/openstack/1.0.2
+  compressedEndpoint: >-
+    https://raw.githubusercontent.com/mantis-toboggan-md/ui-plugin-examples/gh-pages/extensions/openstack/1.0.2.tgz
   noCache: false
   noAuth: false
   metadata:
